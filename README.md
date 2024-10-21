@@ -12,15 +12,15 @@ Welcome to the Daily Expense Sharing Application! This project is built using th
 ## Technologies Used
 
 - **Frontend**:
-- React.js
-- Tailwind CSS
-- DaisyUI
+  - React.js
+  - Tailwind CSS
+  - DaisyUI
 
 - **Backend**:
-- Node.js
-- Express.js
-- MongoDB
-- Bcrypt
+  - Node.js
+  - Express.js
+  - MongoDB
+  - Bcrypt
 
 ## Installation
 To run the application locally, follow these steps:
